@@ -1,0 +1,25 @@
+header,main{
+
+    display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+
+
+#lamp{
+
+width: 300px;
+padding-bottom: 34px;
+
+
+}
+
+#tomada{
+
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+
+}
